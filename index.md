@@ -1,85 +1,71 @@
 <p align="center">
-  <img src="./profile.jpg" width="220" style="border-radius:50%">
+<img src="./profile.png" width="220">
 </p>
 
-# Rupesh Kumar
+<h1 align="center">Rupesh Sharma</h1>
 
-### Learn • Build • Share
+<p align="center">
+Principal Product Manager • AI Research • Learn in Public
+</p>
 
-Principal Product Manager building AI-native systems and documenting the journey.
-
-My Learnings, experiments, research findings, product insights, and lessons.
-
-[Research](#research-focus) • [Articles](#latest-findings) • [About](#about)
-
----
-
-## 🚀 Current Focus
-
-- AI Agents
-- RAG (Retrieval Augmented Generation)
-- MCP
-- Multi-Agent Systems
-- Evaluation Frameworks
-- AI Product Strategy
+<p align="center">
+<a href="#research">Research</a> |
+<a href="#articles">Articles</a> |
+<a href="#about">About</a> |
+<a href="https://github.com/rupesk">GitHub</a> |
+<a href="https://linkedin.com/in/rupesk">LinkedIn</a>
+</p>
 
 ---
 
-## 🧠 Research Focus
+## 🚀 Building AI-Native Systems
 
-### 🤖 AI Agents
-Building systems that can reason, plan, and act.
-
-### 📚 RAG
-Exploring retrieval systems and knowledge augmentation.
-
-### 🧩 Model Architecture Tradeoffs
-Understanding speed, cost, quality, and scale decisions.
-
-### 🔗 MCP
-Learning how tools, agents, and models connect.
-
-### 📈 Evaluation Frameworks
-Building better ways to measure AI systems.
+I document experiments, findings, and lessons from building intelligent products.
 
 ---
 
-## ✍ Latest Findings
+<a id="research"></a>
+
+# Research Areas
+
+| Topic | Focus |
+|---|---|
+| 🤖 AI Agents | Autonomous reasoning systems |
+| 📚 RAG | Retrieval and knowledge systems |
+| 🔗 MCP | Tool and model interoperability |
+| 📊 Evaluation | AI system quality |
+| 🧠 Model Architecture | Tradeoffs and optimization |
+
+---
+
+<a id="articles"></a>
+
+# Latest Articles
 
 ### Why Vector Databases Exist
-Understanding why embeddings changed information retrieval.
+Understanding semantic search and embeddings.
 
-Coming soon →
-
----
-
-### Understanding AI Agents
-Patterns, architectures, and practical learnings.
-
-Coming soon →
-
----
+### AI Agents Explained
+Patterns and architectures.
 
 ### Getting Started with MCP
-Model Context Protocol explained simply.
-
-Coming soon →
+Understanding model context protocols.
 
 ---
 
-## 👋 About
+<a id="about"></a>
 
-I'm Rupesh, a Principal Product Manager working at the intersection of AI strategy, product execution, and intelligent systems.
+# About Me
 
-This site is my learning journal — a place where I document experiments, ideas, and insights.
+Principal Product Manager building AI-native experiences.
+
+I learn in public and share:
+
+- AI research
+- Product thinking
+- Experiments
+- Lessons learned
 
 ---
 
-## 🔗 Connect
-
-- GitHub: https://github.com/rupesk
-- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/mynetwork/grow/)
-
----
-
-> "The best way to learn AI is to build, break, and build again."
+> Learn • Build • Share
