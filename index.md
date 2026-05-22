@@ -1,11 +1,11 @@
 <p align="center">
-<img src="./profile.png" width="220">
+<img src="./profile.jpg" width="220">
 </p>
 
-<h1 align="center">Rupesh Sharma</h1>
+<h1 align="center">Rupesh Kumar</h1>
 
 <p align="center">
-Principal Product Manager • AI Research • Learn in Public
+My Learnings, experiments, research findings, product insights, and lessons.
 </p>
 
 <p align="center">
