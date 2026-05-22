@@ -1,6 +1,5 @@
 # Rupesh Kumar
 
-Principal Product Manager 
 
 My learnings in Product Management, AI research, experiments, product insights, and lessons
 
