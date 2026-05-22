@@ -59,12 +59,7 @@ Understanding model context protocols.
 
 Principal Product Manager building AI-native experiences.
 
-I learn in public and share:
 
-- AI research
-- Product thinking
-- Experiments
-- Lessons learned
 
 ---
 
