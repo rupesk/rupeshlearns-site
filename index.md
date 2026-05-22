@@ -1,3 +1,6 @@
+---
+title: Rupesh Kumar
+---
 <p align="center">
 <img src="./profile.jpg" width="220">
 </p>
