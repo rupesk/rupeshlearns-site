@@ -3,7 +3,7 @@
 <img src="./profile.jpg" width="220">
 </p>
 
-<h1 align="center">Rupesh Kumar</h1>
+<h1 align="center">RUPESH KUMAR</h1>
 
 <p align="center">
 My Learnings, experiments, research findings, product insights, and lessons.
@@ -12,7 +12,6 @@ My Learnings, experiments, research findings, product insights, and lessons.
 <p align="center">
 <a href="#research">Research</a> |
 <a href="#articles">Articles</a> |
-<a href="#about">About</a> |
 <a href="https://github.com/rupesk">GitHub</a> |
 <a href="https://linkedin.com/in/rupesk">LinkedIn</a>
 </p>
